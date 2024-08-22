@@ -1,27 +1,24 @@
 # Introduce Team member
 ---
-<img src="https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Pongsatorn%20Profile.png" alt="0240608_135914000_iOS" width="300"/>
+<img src="https://github.com/siravijbb/INT100-G1-05/blob/Pongsatorn-branch/Natchanon/IMG_2081.jpg" alt="IMG_2081" width="300"/>
 
-**ชื่อ - สกุล :** พงศธร เหลี้ยว
+**ชื่อ - สกุล :** ณัฐชนน ทองคำธรรมชาติ
 
-**ชื่อ - สกุล (ภาษาอังกฤษ) :** Pongsatorn Liao
+**ชื่อ - สกุล (ภาษาอังกฤษ) :** Natchanon Thongkumthummachart
 
-**ชื่อเล่น :** อิคคิว :t-rex:
+**ชื่อเล่น :** แม็กซ์ :t-rex:
 
-**รหัสนักศึกษา :** 67130500021
+**รหัสนักศึกษา :** 67130500008
 
-**บุคลิก :** Introvert
+**บุคลิก :** Extrovert
 
-**กรุ๊ปเลือด :** B
+**กรุ๊ปเลือด :** A
 
 **เพลงที่ชอบ**
 
-* [ปลอดภัย - The White Hair Cut]
-* [Photograph - Ed Sheeran]
-* [Magic - WIM]
+* LANDOKMAI - เพลงรักเพลงแรก (Blooming)
+* Arctic Monkey - I wanna be yours
+* SafePlanets - ดินแดน
 
-  [ปลอดภัย - The White Hair Cut]: https://youtu.be/Iydrtb9JEC8?si=DZTlktFg1jWjWFKC
-  [Photograph - Ed Sheeran]: https://youtu.be/nSDgHBxUbVQ?si=SI9BiLaMOPcHN_D5
-  [Magic - WIM]: https://youtu.be/bBXIjt4pf28?si=eW8QBFPJgyhKSSsD
 ---
-[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/liaxikkxw/)
+[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/__nanonnnnnn/)
