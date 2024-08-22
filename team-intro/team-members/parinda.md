@@ -1,6 +1,6 @@
 <h1 style="text-align: center">Parinda Lertpituckchaiporn (Dear) </h1>
 <div style="height: 50vh; max-width: fit-content; margin-left: auto; margin-right: auto">
-<img src="/images/parinda.jpg" alt="parinda" style="height: 50vh; max-width: fit-content; margin-left: auto; margin-right: auto" >
+<img src="/images/Parinda/parinda.jpg" alt="parinda" style="height: 50vh; max-width: fit-content; margin-left: auto; margin-right: auto" >
 </div>
 <ul>
 <li>
