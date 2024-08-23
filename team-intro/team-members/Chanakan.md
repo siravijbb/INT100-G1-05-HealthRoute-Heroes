@@ -16,8 +16,8 @@
 
 **เพลงที่ชอบ**
 
-    1.https://youtu.be/vBy7FaapGRo?si=g1DV0C3FjwK4H9Hv
-    2.https://youtu.be/ArOGvctw14k?si=XrvZsY2Ni4_NytPK
-    3.https://youtu.be/4Ef7jOl8Fw4?si=8SrnxQYqX_04DE5k
+    1.Daniel Caesar - Best Part
+    2.Infatuated - Rangga Jones
+    3.ไม่ให้ไป - Three Man Down
 
 **IG** : bxchnui.y
