@@ -1,6 +1,6 @@
 #Introduced 
 
-<img src=“https://github.com/siravijbb/INT100-G1-05/blob/eecfab1d3eb46adf964d839cef81b4e759038ac3/images/Chanakan/Chanakan.jpg” width=“300”/>
+<img src=“https://github.com/siravijbb/INT100-G1-05/blob/main/images/Chanakan/Chanakan.jpg” width=“300”/>
 
 ชื่อ - สกุล : ชนกานต์ อุ่นขาว
 ชื่อ - สกุล (ภาษาอังกฤษ) : Chanakan Unkhaow 
