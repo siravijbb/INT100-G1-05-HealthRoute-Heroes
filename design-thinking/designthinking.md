@@ -1,6 +1,7 @@
 # Design thinking report
 ## คนที่ 1: สมหมาย 
 ###  User persona
+![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/30de2a583a88e77e286399efcbf26d7a28cc7ef8/images/personal-1/profile-1.png)
 * Age : 67 ปี
 * Occupation : ว่างงาน พักอาศัยอยู่ที่บริเวณซอยประชาอุทิศ 72
 #### GOALS
@@ -13,6 +14,8 @@
 #### DISLIKE
     1.การจราจรติดขัดที่ส่งผลต่อการเดินทางไปในแต่ละสถานที่
     2.มลพิษทางอากาศ
+### Motivations
+![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/30de2a583a88e77e286399efcbf26d7a28cc7ef8/images/personal-1/Motivations-สมหมาย.png)
 ### WHAT HOW WHY
 * WHAT
   * ไปโรงพยาบาลบางปะกอก 1
@@ -29,7 +32,9 @@
 * Think
   * คิดว่าการที่มีโรงพยาบาลแถวประชาอุทิศและพุทธบูชาเป็นเรื่องที่ดีเพราะจะทำให้มีโอกาสในการเข้ารับการดูแลด้านสุขภาพที่สะดวกสบายมากยิ่งขึ้น
 * Feel
-  * รู้สึกดีและมีความพึงพอใจหลังจากการเข้ารับการดูแลด้านสุขภาพ 
+  * รู้สึกดีและมีความพึงพอใจหลังจากการเข้ารับการดูแลด้านสุขภาพ
+### Journey Map
+![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/30de2a583a88e77e286399efcbf26d7a28cc7ef8/images/personal-1/Journey-Map-1.png)
    
 ## คนที่ 2: สมหญิง 
 ###  User persona
