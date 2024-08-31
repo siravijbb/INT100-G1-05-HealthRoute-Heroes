@@ -1,6 +1,6 @@
 # Introduce Team member
 ---
-<img src="https://github.com/siravijbb/INT100-G1-05/blob/Nanonnnnnn-patch-1/team-intro/team-members/Pongsatorn/Pongsatorn%20Profile.png" alt="0240608_135914000_iOS" width="300"/>
+<img src="https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Pongsatorn%20Profile.png" alt="0240608_135914000_iOS" width="300"/>
 
 **ชื่อ - สกุล :** พงศธร เหลี้ยว
 
@@ -24,4 +24,4 @@
   [Photograph - Ed Sheeran]: https://youtu.be/nSDgHBxUbVQ?si=SI9BiLaMOPcHN_D5
   [Magic - WIM]: https://youtu.be/bBXIjt4pf28?si=eW8QBFPJgyhKSSsD
 ---
-[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/Nanonnnnnn-patch-1/team-intro/team-members/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/liaxikkxw/)
+[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/liaxikkxw/)
