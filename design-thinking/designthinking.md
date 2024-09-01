@@ -38,6 +38,7 @@
    
 ## คนที่ 2: สมหญิง 
 ###  User persona
+![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/ac81ac6f9d610d417d7f2d2150a1d443ed2b382b/images/personal-1/profile-2.JPG)
 * Age : 25 ปี
 * Occupation : ขายเครื่องดื่ม พักอาศัยอยู่ตรงข้ามกับมจธ.
 #### GOALS
@@ -51,6 +52,8 @@
 #### DISLIKE
     1.การจราจรติดขัดยากต่อการเดินทาง
     2.มลพิษทางอากาศ
+### Motivations
+![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/ac81ac6f9d610d417d7f2d2150a1d443ed2b382b/images/personal-1/Motivations-%E0%B8%AA%E0%B8%A1%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87.JPG)
 
 ### WHAT HOW WHY
 * WHAT
@@ -69,9 +72,12 @@
   * ถ้ามีโรงพยาบาลในเขตประชาอุทิศจะทำให้ตนสะดวกสบายและคนในชุมชนเข้าถึงได้มากขึ้น
 * Feel
   * รู้สึกไม่ค่อยพึงพอใจในการเข้าไปรับการรักษาที่โรงพยาลไกลจากเขตประชาอุทิศ ต้องเจอกับการจราจรที่ติดขัดที่จอดรถน้อยรวมถึงการบริการจากพยาบาลที่ไม่ค่อยดี
+### Journey Map
+![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/ac81ac6f9d610d417d7f2d2150a1d443ed2b382b/images/personal-1/journey%20map-2.JPG)
 
 ## คนที่ 3: เล็ก 
 ###  User persona
+![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/ac81ac6f9d610d417d7f2d2150a1d443ed2b382b/images/personal-1/profile-3.JPG)
 * Age : 60 ปี
 * Occupation : พนักงานสังกัดกทม. พักอาศัยอยู่ที่บริเวณสวนธนบุรีรมย์
 #### GOALS
@@ -84,6 +90,8 @@
 #### DISLIKE
     1.สถานที่ที่ซับซ้อน ยากต่อการเข้าถึง
     2.การจราจร
+### Motivations
+![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/ac81ac6f9d610d417d7f2d2150a1d443ed2b382b/images/personal-1/Motivations-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81.JPG)
 
 ### WHAT HOW WHY
 * WHAT
@@ -92,3 +100,6 @@
   * การเดินทางค่อนข้างลำบากหลายขั้นตอนต้องตื่นเช้าตั้งแต่ก่อน 6 โมงเช้า โดยนั่งรถกระป๊อจากที่พักอาศัยไปลงที่ตลาดบางปะกอก -> นั่งรถเมล์สาย82 ไปลงที่บริเวณ ปากคลองตลาด -> นั่งรถเมล์สาย8 ไปลงที่บริเวณหน้าโรงพยาบาลรามาธิบดี โดยใช้เวลาประมาณ 2 ชั่วโมงในการเดินทาง
 * WHY
   * เข้ารับการตรวจโรคประจำตัวกับโรงพยาบาลประจำที่ไว้ใจ
+ 
+### Journey Map
+![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/ac81ac6f9d610d417d7f2d2150a1d443ed2b382b/images/personal-1/journey%20map-3.JPG)
