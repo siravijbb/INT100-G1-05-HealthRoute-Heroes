@@ -113,3 +113,16 @@
 ### Journey Map
 ![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/ac81ac6f9d610d417d7f2d2150a1d443ed2b382b/images/personal-1/journey%20map-3.JPG)
 
+
+## POV
+1.WE MET
+  * คุณลุงสมหมาย, พี่สมหญิง, คุณป้าเล็กที่อาศัยอยู่ในโซนประชาอุทิศและพุทธบูชา
+    
+2.WE WERE SURPRISED TO NOTICE
+  * แปลกใจว่าทำไมต้องไปไกลเเละตื่นแต่เช้าเพื่อไปโรงพยาบาล
+    
+3.WE WONDER IF THIS MEANS
+  * ปัญหาด้านจราจร / คนใช้บริการเยอะ / ไปไม่ทันต้องทำเรื่องนัดในวันใหม่
+
+4.IT WOULD BE GAME-CHANGING TO
+  * จะทำอย่างไรให้เขาสามารถเข้ารับการบริการด้านสุขภาพได้สะดวกมากขึ้น
