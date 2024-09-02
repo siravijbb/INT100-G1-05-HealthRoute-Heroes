@@ -103,3 +103,9 @@
  
 ### Journey Map
 ![Alt text](https://github.com/siravijbb/INT100-G1-05/blob/ac81ac6f9d610d417d7f2d2150a1d443ed2b382b/images/personal-1/journey%20map-3.JPG)
+
+### Phototype
+![Phototype](https://healthroute.siravijbb.com)
+![Github Phototype](https://github.com/siravijbb/HealthRoute-Heroes-Phototype)
+
+
