@@ -14,7 +14,7 @@
 
 **กรุ๊ปเลือด :** O
 
-**เพลงที่ชอบ :**
+**เพลงที่ชอบ :musical_note: :**
 
 1. [Shonichi - BNK48]
 2. [Stella Stella - Hoshimachi Suisei]
