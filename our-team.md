@@ -21,7 +21,7 @@
 2.สมาชิกคนที่2 <sub>ชื่อ-สกุลENG</sub>
 ---
 
-(ด้านล่างนี้เป็นข้อมูลเก่า เมื่อทำเสร็จแล้วให้ลบออก)
+(ด้านล่างนี้เป็นอันเก่าเอาไว้ดูข้อมุล เมื่อทำเสร็จแล้วให้ลบออก)
 1. [Siravij Praevisavakij](https://github.com/siravijbb/INT100-G1-05/blob/main/team-intro/team-members/siravij.md) :hamburger:
 2. [Parinda Lertpituckchaiporn](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/parinda.md)
 3. [Pongsatorn Liao](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/Pongsatorn.md)
