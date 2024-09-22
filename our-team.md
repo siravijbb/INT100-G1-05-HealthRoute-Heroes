@@ -1,5 +1,9 @@
-## We are the HealthRoute Heroes team
-info
+## Introduction of our Team "HealthRoute Heroes"
+สวัสดีครับ/ค่ะ พวกเราทีม `HealthRoute Heroes`
+
+นักศึกษาชั้นปีที่1 คณะเทคโนโลยีสารสนเทศ สาขาเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี 
+
+โดยชื่อทีมนี้สื่อถึงความมุ่งมั่นและความพยายามของพวกเราที่ต้องการสร้างการเปลี่ยนแปลงเชิงบวก เพื่อให้มั่นใจว่าผู้คนในพื้นที่ถนนประชาอุทิศและถนนพุทธบูชาสามารถเข้าถึงบริการด้านสุขภาพที่มีคุณภาพ
 
 > These are our team members
 
@@ -16,5 +20,14 @@ info
 
 2.สมาชิกคนที่2 <sub>ชื่อ-สกุลENG</sub>
 ---
+
+(ด้านล่างนี้เป็นข้อมูลเก่า เมื่อทำเสร็จแล้วให้ลบออก)
+1. [Siravij Praevisavakij](https://github.com/siravijbb/INT100-G1-05/blob/main/team-intro/team-members/siravij.md) :hamburger:
+2. [Parinda Lertpituckchaiporn](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/parinda.md)
+3. [Pongsatorn Liao](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/Pongsatorn.md)
+4. [Chanakan Unkhaow](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/Chanakan.md)
+5. [Natchanon Thongkumthummachart](https://www.instagram.com/__nanonnnnnn/)
+6. [Wachitanan Supho](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/Wachitanan.md)
+
 
 
