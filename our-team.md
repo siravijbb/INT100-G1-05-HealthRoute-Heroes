@@ -12,13 +12,29 @@
 
 <img src="https://github.com/siravijbb/INT100-G1-05-HealthRoute-Heroes/blob/b6bad556fdedbec8a9682ddc8ad21d96e4f4e3a3/images/Parinda/parinda.jpg" width="200"/>
 
-+ ชื่อเล่น: เดียร์ :purple_heart:
-+ รหัสนักศึกษา: 67130500020
-+ IG: [parin.dear._](https://www.instagram.com/parin.dear._/)
++ **ชื่อเล่น:** เดียร์ :purple_heart:
++ **รหัสนักศึกษา:** 67130500020
++ **Contact:**
+
+[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/parin.dear._/)
+
 
   ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
++ เดียร์เป็นคนที่มีความตั้งใจสูง สามารถอธิบายรายละเอียดงานต่างๆได้ชัดเจน 
+---
 
-2.สมาชิกคนที่2 <sub>ชื่อ-สกุลENG</sub>
+2.ณัฐชนน ทองคำธรรมชาติ <sub>Natchanon Thongkumthummachart</sub>
+---
+
+<img src="https://github.com/siravijbb/INT100-G1-05-HealthRoute-Heroes/blob/main/images/Natchanon/IMG_2081.jpg" alt="IMG_2081" width="400"/>
+
++ **ชื่อเล่น :** แม็กซ์ :t-rex:
++ **รหัสนักศึกษา :** 67130500008
++ **Contact:**
+  
+[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/__nanonnnnnn/)
+
+  ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
 ---
 
 (ด้านล่างนี้เป็นอันเก่าเอาไว้ดูข้อมุล เมื่อทำเสร็จแล้วให้ลบออก)
