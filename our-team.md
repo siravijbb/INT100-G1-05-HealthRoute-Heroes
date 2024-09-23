@@ -33,10 +33,25 @@
 + **Contact:**
   
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/__nanonnnnnn/)
-
-  ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
+  
 ---
 
+3.วชิตะนันท์ สุโพธิ์ <sub>Wachitanan Supho</sub> :smiley:
+---
+<img src="/images/Wachitanan/Wachitanan.jpg" alt="Wachitanan" style="height: 50vh; max-width: fit-content; margin-left: auto; margin-right: auto"> 
+
++ **ชื่อเล่น**: ซี  
++ **รหัสนักศึกษา**: 67130500034  
++ **บุคลิก**: Introvert :heart:  
++ **บุคลิกส่วนตัว**:
+  - ซีชอบร้องเพลง :microphone:
+  - รักการคิดสร้างสรรค์และเรียนรู้สิ่งใหม่ ๆ :bulb:
+  - ให้ความสำคัญกับความร่วมมือและการสนับสนุนเพื่อนร่วมทีม :pray:  
++ **Contact:**
+  
+[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/wachixii_)
+---
+ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
 (ด้านล่างนี้เป็นอันเก่าเอาไว้ดูข้อมุล เมื่อทำเสร็จแล้วให้ลบออก)
 1. [Siravij Praevisavakij](https://github.com/siravijbb/INT100-G1-05/blob/main/team-intro/team-members/siravij.md) :hamburger:
 2. [Parinda Lertpituckchaiporn](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/parinda.md)
