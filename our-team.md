@@ -64,6 +64,18 @@
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/liaxikkxw/)
 ---
 
+5.สิรวิชญ์ แพร่วิศวกิจ <sub>Siravij Praevisavakij</sub> :smiley:
+---
+<img src="https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Siravij/Siravij.jpg" alt="Siravij" width="300"/>
+
++ **ชื่อเล่น :** บีบี :wave:
++ **รหัสนักศึกษา :** 67130500048
++ **บุคลิก :** Introvert
++ **Contact:**
+
+[Facebook](https://www.facebook.com/SRBSiravijbb/)
+---
+
 
 
 ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
