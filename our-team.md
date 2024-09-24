@@ -36,20 +36,16 @@
   
 ---
 
-3.วชิตะนันท์ สุโพธิ์ <sub>Wachitanan Supho</sub> :smiley:
+3.ชนกานต์ อุ่นขาว <sub>Chanakan Unkhaow</sub> :smiley:
 ---
-<img src="/images/Wachitanan/Wachitanan.jpg" alt="Wachitanan" style="height: 50vh; max-width: fit-content; margin-left: auto; margin-right: auto"> 
+<img src="https://github.com/siravijbb/INT100-G1-05-HealthRoute-Heroes/blob/ad0e78aa8f040e6edd7dfbe7f69af8ba7d37b2e6/images/Chanakan/Chanakan.jpg" width="400"/> 
 
-+ **ชื่อเล่น**: ซี  
-+ **รหัสนักศึกษา**: 67130500034  
-+ **บุคลิก**: Introvert :heart:  
-+ **บุคลิกส่วนตัว**:
-  - ซีชอบร้องเพลง :microphone:
-  - รักการคิดสร้างสรรค์และเรียนรู้สิ่งใหม่ ๆ :bulb:
-  - ให้ความสำคัญกับความร่วมมือและการสนับสนุนเพื่อนร่วมทีม :pray:  
++ **ชื่อเล่น**: บิ๊ก  
++ **รหัสนักศึกษา**: 67130500006  
++ **บุคลิก**: Introvert :heart:    
 + **Contact:**
   
-[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/wachixii_)
+[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/bxchnui.y)
 ---
 
 4.พงศธร เหลี้ยว <sub>Pongsatorn Liao</sub> :smiley:
