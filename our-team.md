@@ -56,9 +56,9 @@
 ---
 <img src="https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Pongsatorn%20Profile.png" alt="0240608_135914000_iOS" width="300"/>
 
-+**ชื่อเล่น :** อิคคิว :t-rex:
-+**รหัสนักศึกษา :** 67130500021
-+**บุคลิก :** Introvert
++ **ชื่อเล่น :** อิคคิว :t-rex:
++ **รหัสนักศึกษา :** 67130500021
++ **บุคลิก :** Introvert
 + **Contact:**
   
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/liaxikkxw/)
