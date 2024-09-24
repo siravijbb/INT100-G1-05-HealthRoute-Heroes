@@ -51,6 +51,21 @@
   
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/wachixii_)
 ---
+
+4.พงศธร เหลี้ยว <sub>Pongsatorn Liao</sub> :smiley:
+---
+<img src="https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Pongsatorn%20Profile.png" alt="0240608_135914000_iOS" width="300"/>
+
++ **ชื่อเล่น :** อิคคิว :t-rex:
++ **รหัสนักศึกษา :** 67130500021
++ **บุคลิก :** Introvert
++ **Contact:**
+  
+[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/liaxikkxw/)
+---
+
+
+
 ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
 (ด้านล่างนี้เป็นอันเก่าเอาไว้ดูข้อมุล เมื่อทำเสร็จแล้วให้ลบออก)
 1. [Siravij Praevisavakij](https://github.com/siravijbb/INT100-G1-05/blob/main/team-intro/team-members/siravij.md) :hamburger:
