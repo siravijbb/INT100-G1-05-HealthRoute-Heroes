@@ -66,7 +66,7 @@
 
 5.สิรวิชญ์ แพร่วิศวกิจ <sub>Siravij Praevisavakij</sub> :smiley:
 ---
-<img src="https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Siravij/Siravij.jpg" alt="Siravij" width="300"/>
+<img src="https://github.com/siravijbb/INT100-G1-05-HealthRoute-Heroes/blob/siravij-branch/images/Siravij/siravij.JPG" alt="Siravij" width="300"/>
 
 + **ชื่อเล่น :** บีบี :wave:
 + **รหัสนักศึกษา :** 67130500048
