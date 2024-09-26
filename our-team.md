@@ -63,7 +63,7 @@
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/liaxikkxw/)
 
 + อิคคิวเป้นคนเก่งภาษาอังกฤษ ใฝ่รู้ และมีความรับผิดชอบสูงมากก
-+ สุภาพ เก่งเรื่องการนำเสนอ
++ เป็นคนที่สุภาพ เก่งเรื่องการนำเสนอ
 ---
 
 5.สิรวิชญ์ แพร่วิศวกิจ <sub>Siravij Praevisavakij</sub> :smiley:
