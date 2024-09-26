@@ -46,6 +46,8 @@
 + **Contact:**
   
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/bxchnui.y)
+
++ บิ๊กเป็นคนทำงานตรงตามหน้าที่ที่ได้รับมอบหมาย มีความรับผิดชอบต่อทีม
 ---
 
 4.พงศธร เหลี้ยว <sub>Pongsatorn Liao</sub> :smiley:
@@ -58,6 +60,8 @@
 + **Contact:**
   
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/liaxikkxw/)
+
++ อิคคิวเป้นคนเก่งภาษาอังกฤษ ใฝ่รู้ และมีความรับผิดชอบสูงมากก
 ---
 
 5.สิรวิชญ์ แพร่วิศวกิจ <sub>Siravij Praevisavakij</sub> :smiley:
@@ -71,7 +75,7 @@
 
 [Facebook](https://www.facebook.com/SRBSiravijbb/)
 ---
-
+ + บีบีเป็นคนรอบรู้ ความรู้แน่น สอนคนอื่นๆได้
 
 
 ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
