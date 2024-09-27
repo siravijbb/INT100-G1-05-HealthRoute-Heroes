@@ -400,7 +400,10 @@
 * Report in "Empathize session"
 
 #### วชิตะนันท์ สุโพธิ์ 67130500034
-* ทำ....
+* ทำ สัมภาษณ์
+* พรีเซนต์ Ideate
+* รวบรวม Feedback
+* ทำ what/how/why + say/do/think/feel (Collaborate with "พงศธร เหลี้ยว")
 
 #### สิรวิชญ์ แพร่วิศวกิจ 67130500048
 * Consulting
