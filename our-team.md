@@ -89,4 +89,17 @@
  + เลิฟร้าน loongnhoom square
  + บีบีเป็นคนที่รู้ลึก ถึงรากของเรื่องนั้นๆ และบีบีสามารถแก้ไขสถานการณ์หรือปัญหาที่เกิดขึ้นโดยทันทีได้ ผ่านความรู้ที่บีบีมี และบีบียังมีการวางระบบงานไว้เป็นมาตรฐานอีกด้วย
  + ผู้เชี่ยวชาญมีความรู้ที่ลึกซึ้ง เป็นคนที่เก่งมากคนนึงเลย
+---
 
+6.วชิตะนันท์ สุโพธิ์ <sub>Wachitanan Supho</sub> :smiley:
+---
+<img src="/images/Wachitanan/Wachitanan.jpg" alt="Wachitanan" style="height: 50vh; max-width: fit-content; margin-left: auto; margin-right: auto" >
+
++ **ชื่อเล่น :** ซี :t-rex:
++ **รหัสนักศึกษา :** 67130500034
++ **บุคลิก :** Introvert
++ **Contact:**
+
+[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/wachixii_/)
+
+---
