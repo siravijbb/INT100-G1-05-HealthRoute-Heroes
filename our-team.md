@@ -76,6 +76,17 @@
 [Facebook](https://www.facebook.com/SRBSiravijbb/)
 ---
  + บีบีเป็นคนรอบรู้ ความรู้แน่น สอนคนอื่นๆได้
+---
+
+6.วชิตะนันท์ สุโพธิ์ <sub>Wachitanan Supho</sub> :smiley:
+---
+<img src="/images/Wachitanan/Wachitanan.jpg" alt="Wachitanan" style="height: 50vh; max-width: fit-content; margin-left: auto; margin-right: auto" >
+
++ **ชื่อเล่น :** ซี :t-rex:
++ **รหัสนักศึกษา :** 67130500034
++ **บุคลิก :** Introvert
++ **Contact:**
+
 
 
 ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
