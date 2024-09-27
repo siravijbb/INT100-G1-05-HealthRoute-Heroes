@@ -404,5 +404,9 @@
 * ทำ....
 
 #### สิรวิชญ์ แพร่วิศวกิจ 67130500048
-* ทำ....
+* Consulting
+* GitHub Controlling
+* Design and Build Phototype
+* Location Targeting
+
 
