@@ -103,3 +103,5 @@
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/wachixii_/)
 
 ---
+ + ซีเป็นคนที่มีความตั้งใจในการทำงาน และสามารถทำงานออกมาได้อย่างมีคุณภาพ
+ + ซีเป็นคนที่มีความมุ่งมั่นที่จะเรียนรู้ในสิ่งใหม่ๆตลอดเวลา
