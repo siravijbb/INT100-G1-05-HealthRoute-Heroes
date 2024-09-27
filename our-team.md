@@ -87,7 +87,9 @@
 + **บุคลิก :** Introvert
 + **Contact:**
 
+[![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/wachixii_/)
 
+---
 
 ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
 (ด้านล่างนี้เป็นอันเก่าเอาไว้ดูข้อมุล เมื่อทำเสร็จแล้วให้ลบออก)
