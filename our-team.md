@@ -7,19 +7,18 @@
 
 > These are our team members
 
-1.ปริณดา เลิศพิทักษ์ชัยพร <sub>Parinda Lertpituckchaiporn</sub>
+1.ปริณดา เลิศพิทักษ์ชัยพร <sub>Parinda Lertpituckchaiporn</sub> :smile:
 ---
 
 <img src="https://github.com/siravijbb/INT100-G1-05-HealthRoute-Heroes/blob/b6bad556fdedbec8a9682ddc8ad21d96e4f4e3a3/images/Parinda/parinda.jpg" width="200"/>
 
 + **ชื่อเล่น:** เดียร์ :purple_heart:
 + **รหัสนักศึกษา:** 67130500020
++ **บุคคลิก:** Introvert
 + **Contact:**
 
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/parin.dear._/)
 
-
-  ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
 + เดียร์เป็นคนที่มีความตั้งใจสูง สามารถอธิบายรายละเอียดงานต่างๆได้ชัดเจน 
 ---
 
@@ -33,7 +32,8 @@
 + **Contact:**
   
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/__nanonnnnnn/)
-  
+
++ แม็กซ์เป็นคนที่ร่าเริง มีศิลปะในการพูด
 ---
 
 3.ชนกานต์ อุ่นขาว <sub>Chanakan Unkhaow</sub> :smiley:
@@ -48,6 +48,7 @@
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/bxchnui.y)
 
 + บิ๊กเป็นคนทำงานตรงตามหน้าที่ที่ได้รับมอบหมาย มีความรับผิดชอบต่อทีม
++ คิดไอเดียได้เก่ง เป็นคนที่ใจเย็น
 ---
 
 4.พงศธร เหลี้ยว <sub>Pongsatorn Liao</sub> :smiley:
@@ -62,6 +63,7 @@
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/liaxikkxw/)
 
 + อิคคิวเป้นคนเก่งภาษาอังกฤษ ใฝ่รู้ และมีความรับผิดชอบสูงมากก
++ เป็นคนที่สุภาพ เก่งเรื่องการนำเสนอ
 ---
 
 5.สิรวิชญ์ แพร่วิศวกิจ <sub>Siravij Praevisavakij</sub> :smiley:
@@ -76,16 +78,6 @@
 [Facebook](https://www.facebook.com/SRBSiravijbb/)
 ---
  + บีบีเป็นคนรอบรู้ ความรู้แน่น สอนคนอื่นๆได้
-
-
-ข้อมูลอื่นๆที่เหลือของเราเพื่อนๆมาช่วยกันเพิ่มให้กันด้วยน๊า(ทุกคนต้องเขียนให้กับเพื่อนๆทุกคนในทีม)
-(ด้านล่างนี้เป็นอันเก่าเอาไว้ดูข้อมุล เมื่อทำเสร็จแล้วให้ลบออก)
-1. [Siravij Praevisavakij](https://github.com/siravijbb/INT100-G1-05/blob/main/team-intro/team-members/siravij.md) :hamburger:
-2. [Parinda Lertpituckchaiporn](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/parinda.md)
-3. [Pongsatorn Liao](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/Pongsatorn.md)
-4. [Chanakan Unkhaow](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/Chanakan.md)
-5. [Natchanon Thongkumthummachart](https://www.instagram.com/__nanonnnnnn/)
-6. [Wachitanan Supho](https://github.com/siravijbb/INT100-G1-05/tree/main/team-intro/team-members/Wachitanan.md)
-
-
+ + เป็นที่ปรึกษาให้กับคนในทีมได้
+ + เลิฟร้าน loongnhoom square
 
