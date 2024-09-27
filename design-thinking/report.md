@@ -394,7 +394,10 @@
 * ทำ....
 
 #### พงศธร เหลี้ยว 67130500021
-* ทำ....
+* Interviewing user
+* Conclude all of results after interviewing sessions
+* made and present in "Empathize section" include : user persona + what/how/why + say/do/think/feel + journey map (Collaborate with ณัฐชนน ทองคำธรรมชาติ")
+* Report in "Empathize session"
 
 #### วชิตะนันท์ สุโพธิ์ 67130500034
 * ทำ....
