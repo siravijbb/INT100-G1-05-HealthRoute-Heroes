@@ -12,12 +12,13 @@
 
 <img src="https://github.com/siravijbb/INT100-G1-05-HealthRoute-Heroes/blob/b6bad556fdedbec8a9682ddc8ad21d96e4f4e3a3/images/Parinda/parinda.jpg" width="200"/>
 
-+ **ชื่อเล่น:** เดียร์ :purple_heart:
-+ **รหัสนักศึกษา:** 67130500020
-+ **บุคคลิก:** Introvert
++ **ชื่อเล่น:** เดียร์ :sparkles:
++ **รหัสนักศึกษา:**  67130500020
++ **บุคคลิก:** Introvert :hearts:
 + **Contact:**
-
+  
 [![Instragram](https://github.com/siravijbb/INT100-G1-05/blob/siravij-branch/images/Pongsatorn/Instagram_icon.png)](https://www.instagram.com/parin.dear._/)
+
 
 + เดียร์เป็นคนที่มีความตั้งใจสูง สามารถอธิบายรายละเอียดงานต่างๆได้ชัดเจน
 + เดียร์เป็นคนที่วางแผนงานเป็นระบบ ซึ่งทำให้คนอื่นสามารถเข้าใจงาน หรือสิ่งที่ต้องทำได้อย่างชัดเจน
